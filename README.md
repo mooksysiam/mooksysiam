@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about me :**
  
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
+<img width="55%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg" /> 
 
 - 👋 Hi, I’m @mooksysiam
 - 👀 I’m interested in ...
