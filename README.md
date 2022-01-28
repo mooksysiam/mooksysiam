@@ -61,6 +61,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
 | Teacher | 2004.03 ~ 2009.02 | Web Programming | 성일정보고등학교 |
 | Teacher | 2009.03 ~ 2011.02 | 정보교과목 | 성일고등학교 |
 | Teacher | 2011.03 ~ 현재 | Web Programming | 성일정보고등학교 |
-| postgraduate student | 2021.08 ~ 현재 | 인공지능융합교육전공 | 경인교육대학교 전문대학원 |
+| Postgraduate Student | 2021.08 ~ 현재 | 인공지능융합교육전공 | 경인교육대학교 전문대학원 |
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
